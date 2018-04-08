@@ -1,0 +1,10 @@
+﻿<channels>
+	<channel>
+		<name>TVRM Educational</name>
+		<category>Varieties</category>
+		<location>Romania</location>
+		<site>http://www.tvrm.ro/</site>
+		<stream>mms://86.34.169.52:8080/</stream>
+		<thumbnail>http://www.tvrm.ro/images/Logo.png</thumbnail>
+	</channel>
+</channels>

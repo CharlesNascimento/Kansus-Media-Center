@@ -1,0 +1,28 @@
+﻿<channels>
+	<channel>
+		<name>Cartoon Classics TV</name>
+		<category>Kids</category>
+		<location>USA</location>
+		<site></site>
+		<stream>http://72.13.93.186/cartoonclassics</stream>
+		<thumbnail></thumbnail>
+	</channel>
+	
+	<channel>
+		<name>Smile of a Child (Smile TV)</name>
+		<category>Kids</category>
+		<location>Russia</location>
+		<site>http://smiletv.org/</site>
+		<stream>mms://mms.rrsat-internet.tv/smile</stream>
+		<thumbnail>http://tbn-tv.ru/wp-content/uploads/2012/10/smile1.jpg</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>TRT Cocuk</name>
+		<category>Kids</category>
+		<location>Turkey</location>
+		<site>http://www.trt.net.tr/trtcocuk/</site>
+		<stream>mms://95.0.159.131/TV4</stream>
+		<thumbnail>http://www.trt.net.tr/trtcocuk/images/logo.gif</thumbnail>
+	</channel>
+</channels>

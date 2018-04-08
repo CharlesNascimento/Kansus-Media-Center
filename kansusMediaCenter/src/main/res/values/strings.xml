@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- ________________________________________________ General Section ________________________________________________ -->
+
+    <string name="app_name">Kansus Media Center</string>
+    <string name="empty_string">Empty</string>
+    
+    <!-- Main Menu -->
+    <string name="music">Music</string>
+    <string name="playlists">Playlists</string>
+    <string name="video">Video</string>
+    <string name="videos">Videos</string>
+    <string name="video_download">Download</string>
+    <string name="capture_video">Capture</string>
+    <string name="picture">Picture</string>
+    <string name="pictures">Pictures</string>
+    <string name="slideshow_legend">Slideshow</string>
+    <string name="capture_photo">Capture</string>
+    <string name="radio">Radio</string>
+    <string name="listen">Listen</string>
+    <string name="my_radios">My Radios</string>
+    <string name="radio_recordings">Recordings</string>
+    <string name="tv">TV</string>
+    <string name="watch">Watch</string>
+    <string name="my_tvs">My TVs</string>
+    <string name="tv_recordings">Recordings</string>
+    <string name="options">Options</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="contact_us">Contact\nus</string>
+    <string name="bug_report">Bug\nReport</string>
+    <string name="about">About</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    
+    <!-- Social -->
+    <string name="app_share_text">Teste agora o Kansus Media Center no seu Android</string>
+    <string name="app_description">Kansus Media Center é uma aplicação Android capaz de reproduzir
+         e converter vários tipos de mídia, além do poder de executar streamings de rádio e TV.</string>
+    <string name="app_link">https://google.com</string>
+    <string name="app_icon_url">http://www.facebookmobileweb.com/hackbook/img/facebook_icon_large.png</string>
+
+    <!-- ________________________________________________ Gallery Section ________________________________________________ -->
+
+    <string name="all_images">All pictures</string>
+    <string name="all_videos">All videos</string>
+    <string name="gallery_camera_bucket_name">Camera pictures</string>
+    <string name="gallery_camera_videos_bucket_name">Camera videos</string>
+    <string name="gallery_camera_media_bucket_name">Camera media</string>
+    <string name="crop_label">Crop picture</string>
+    <string name="view_label">View picture</string>
+    <string name="preferences_label">Camera settings</string>
+    <string name="wait">Please wait\u2026</string>
+    <string name="not_enough_space" product="default">Your SD card is full.</string>
+    <string name="preparing_sd" product="default">Preparing SD card\u2026</string>
+    <string name="wallpaper">Setting wallpaper, please wait\u2026</string>
+
+    <!-- Menu items -->
+    <string name="view">View</string>
+    <string name="details">Details</string>
+    <string name="rotate">Rotate</string>
+    <string name="rotate_left">Rotate left</string>
+    <string name="rotate_right">Rotate right</string>
+    <string name="slide_show">Slideshow</string>
+    <string name="multiselect">Multiselect</string>
+    <string name="camera_toss">Delete</string>
+    <string name="camera_share">Share</string>
+    <string name="camera_set">Set as</string>
+    <string name="camera_play">Play</string>
+    <string name="camera_attach">Attach</string>
+    <string name="camera_cancel">Cancel</string>
+    <string name="camera_crop">Crop</string>
+    <string name="crop_save_text">Save</string>
+    <string name="crop_discard_text">Discard</string>
+    <string name="savingImage">Saving picture\u2026</string>
+    <string name="confirm_delete_title">Delete</string>
+    <string name="confirm_delete_message">The picture will be deleted.</string>
+    <string name="confirm_delete_video_message">The video will be deleted.</string>
+    <string name="confirm_delete_multiple_message">These media files will be deleted.</string>
+    <string name="no_way_to_share_image">No application available to share the picture.</string>
+    <string name="no_way_to_share_video">No application available to share the video.</string>
+    <string name="no_way_to_share">No application available to share the media file(s).</string>
+    <string name="video_play">Play</string>
+    <string name="camera_setas_wallpaper">Wallpaper</string>
+
+    <!-- Preferences -->
+    <string name="pref_gallery_category">General settings</string>
+    <string name="pref_slideshow_category">Slideshow settings</string>
+    <string name="pref_gallery_size_title">Display size</string>
+    <string name="pref_gallery_size_summary">Select the display size of pictures and videos</string>
+    <string name="pref_gallery_size_dialogtitle">Picture size</string>
+
+    <string-array name="pref_gallery_size_choices">
+        <item>Large</item>
+        <item>Small</item>
+    </string-array>
+    <string-array name="pref_gallery_size_values" translatable="false">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+
+    <string name="default_value_pref_gallery_size" translatable="false">1</string>
+    <string name="pref_gallery_sort_title">Sort order</string>
+    <string name="pref_gallery_sort_summary">Select the sort order of pictures and videos</string>
+    <string name="pref_gallery_sort_dialogtitle">Picture sort</string>
+
+    <string-array name="pref_gallery_sort_choices">
+        <item>Newest first</item>
+        <item>Newest last</item>
+    </string-array>
+    <string-array name="pref_gallery_sort_values" translatable="false">
+        <item>descending</item>
+        <item>ascending</item>
+    </string-array>
+
+    <string name="default_value_pref_gallery_sort" translatable="false">descending</string>
+    <string name="pref_gallery_slideshow_interval_title">Slideshow interval</string>
+    <string name="pref_gallery_slideshow_interval_summary">Select how long each slide displays in the show</string>
+    <string name="pref_gallery_slideshow_interval_dialogtitle">Slideshow interval</string>
+
+    <string-array name="pref_gallery_slideshow_interval_choices">
+        <item>2 seconds</item>
+        <item>3 seconds</item>
+        <item>4 seconds</item>
+    </string-array>
+    <string-array name="pref_gallery_slideshow_interval_values" translatable="false">
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+    </string-array>
+
+    <string name="default_value_pref_gallery_slideshow_interval" translatable="false">"2"</string>
+    <string name="pref_gallery_slideshow_transition_title">Slideshow transition</string>
+    <string name="pref_gallery_slideshow_transition_summary">Select the effect used when moving
+         from one slide to the next</string>
+    <string name="pref_gallery_slideshow_transition_dialogtitle">Slideshow transition</string>
+
+    <string-array name="pref_gallery_slideshow_transition_choices">
+        <item>Fade in &amp; out</item>
+        <item>Slide left - right</item>
+        <item>Slide up - down</item>
+        <item>Random selection</item>
+    </string-array>
+    <string-array name="pref_gallery_slideshow_transition_values" translatable="false">
+        <item>"0"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"-1"</item>
+    </string-array>
+
+    <string name="default_value_pref_gallery_slideshow_transition" translatable="false">"0"</string>
+    <string name="pref_gallery_slideshow_repeat_title">Repeat slideshow</string>
+    <string name="pref_gallery_slideshow_repeat_summary">Play slideshow more than once</string>
+    <string name="pref_gallery_slideshow_shuffle_title">Shuffle slides</string>
+    <string name="pref_gallery_slideshow_shuffle_summary">Show pictures in random order</string>
+    <string name="camerasettings">Settings</string>
+    <string name="image_gallery_NoImageView_text">No media found.</string>
+    <string name="pref_gallery_confirm_delete_title">Confirm deletions</string>
+    <string name="pref_gallery_confirm_delete_summary">Show confirmation before deleting a picture or video</string>
+
+    <!-- Details dialog -->
+    <string name="details_panel_title">Details</string>
+    <string name="details_file_size">File size:</string>
+    <string name="details_image_resolution">Resolution:</string>
+    <string name="details_image_make">Manufacturer:</string>
+    <string name="details_image_model">Model:</string>
+    <string name="details_image_whitebalance">WhiteBalance:</string>
+    <string name="details_duration">Duration:</string>
+    <string name="details_date_taken">Date taken:</string>
+    <string name="details_frame_rate">Frame rate:</string>
+    <string name="details_bit_rate">Bit rate:</string>
+    <string name="details_codec">Codec:</string>
+    <string name="details_format">Format:</string>
+    <!-- Used to format image dimensions in Details dialog. e.g. 64 x 64 -->
+    <string name="details_dimension_x"><xliff:g id="width" example="640">%1$d</xliff:g> x <xliff:g id="height" example="480">%2$d</xliff:g></string>
+    <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+    <string name="details_ms"><xliff:g id="minutes">%1$02d</xliff:g>:<xliff:g id="seconds">%2$02d</xliff:g></string>
+    <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+    <string name="details_hms"><xliff:g id="hours">%1$d</xliff:g>:<xliff:g id="minutes">%2$02d</xliff:g>:<xliff:g id="seconds">%3$02d</xliff:g></string>
+    <!-- Unit of measure in the Details dialog frames per second. e.g. 20 fps -->
+    <string name="details_fps"><xliff:g id="frames" example="30">%1$d</xliff:g> fps</string>
+    <!-- Unit of measure in the Details dialog K bits per second. e.g. 192 Kbps -->
+    <string name="details_kbps"><xliff:g id="speed" example="192">%1$d</xliff:g> Kbps</string>
+    <!-- Unit of measure in the Details dialog M bits per second. e.g. 2.3 Mbps -->
+    <string name="details_mbps"><xliff:g id="speed" example="2.3">%1$g</xliff:g> Mbps</string>
+    <!-- Details dialog "OK" button. Dismisses dialog. -->
+    <string name="details_ok">OK</string>
+    <string name="context_menu_header">Picture options</string>
+    <string name="video_context_menu_header">Video options</string>
+    <string name="multiface_crop_help">Tap a face to begin.</string>
+    <string name="photos_gallery_title">Gallery</string>
+    <string name="pick_photos_gallery_title">Select picture</string>
+    <string name="videos_gallery_title">Gallery</string>
+    <string name="pick_videos_gallery_title">Select video</string>
+    <string name="sendImage">Share picture via</string>
+    <string name="setImage">Set picture as</string>
+    <string name="sendVideo">Share video via</string>
+    <string name="send_media_files">Share media files via</string>
+    <string name="movieviewlabel">Movies</string>
+    <string name="loading_video">Loading video\u2026</string>
+    <string name="resume_playing_title">Resume video</string>
+    <string name="resume_playing_message">Resume playing from <xliff:g id="duration" example="5:30">%s</xliff:g> ?</string>
+    <string name="resume_playing_resume">Resume playing</string>
+    <string name="resume_playing_restart">Start over</string>
+    <string name="gadget_title">Picture frame</string>
+    <string name="file_info_title">File info:</string>
+    <string name="video_exceed_mms_limit">The video you recorded is too large to send via MMS.
+         Try recording a shorter length clip.</string>
+    <string name="multiselect_share">Share</string>
+    <string name="multiselect_delete">Delete</string>
+    <string name="multiselect_cancel">Cancel</string>
+    <string name="delete_images_message">Deleting images, please wait\u2026</string>
+
+    <!-- Video Download -->
+
+    <string name="video_download_title">Video Download</string>
+    <string name="menu_settings">Settings</string>
+    <string name="paste_download_link">Paste download link here</string>
+    <string name="download">Download</string>
+    <string name="completed">Completed</string>
+    <string name="no_format_selected">No format selected.</string>
+    <string name="download_canceled">Download canceled.</string>
+    <string name="download_completed">Download completed successfully.</string>
+    <string name="cancel">Cancel</string>
+    <string name="title">Title:&#8201;</string>
+    <string name="duration">Duration:&#8201;</string>
+    <string name="size">"Size:&#8201;"</string>
+    <string name="resolution">Original resolution:&#8201;</string>
+    <string name="error_connecting">There was an error on trying to connect to the site.</string>
+    <string name="starting_download">Starting download&#8230;</string>
+    <string name="gathering_video_information">Please wait, gathering video information&#8230;</string>
+
+    <!-- _________________________________________________ Radio & TV Section _________________________________________________ -->
+    
+    <string name="vitamio_name">Vitamio</string>
+    <string name="vitamio_init_decoders">Initializing decoders…</string>
+    <string name="vitamio_videoview_error_title">Cannot play video</string>
+    <string name="vitamio_videoview_error_text_invalid_progressive_playback">Sorry, this video is not valid for streaming to
+		this device.</string>
+    <string name="vitamio_videoview_error_text_unknown">Sorry, this video cannot be played.</string>
+    <string name="vitamio_videoview_error_button">OK</string>
+    <string name="mediacontroller_play_pause">Play/Pause</string>
+    <string name="radio_library">Radio Library</string>
+    <string name="tv_library">TV Library</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="rename">Rename</string>
+    <string name="convert">Convert</string>
+    <string name="search">Search</string>
+    <string name="new_radio">New Radio</string>
+    <string name="new_tv">New TV</string>
+    <string name="go_to_site">Go to Website</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="sleep">Sleep</string>
+
+    <string-array name="radio_stations_categories">
+        <item>Favorites</item>
+        <item>Recents</item>
+        <item>My Radios</item>
+        <item>Local Radio</item>
+        <item>Business</item>
+        <item>Comedy</item>
+        <item>Culture</item>
+        <item>Educational</item>
+        <item>Government</item>
+        <item>Music</item>
+        <item>News</item>
+        <item>Sports</item>
+        <item>Technology</item>
+        <item>Varieties</item>
+        <item>By Location</item>
+    </string-array>
+    <string-array name="tv_stations_categories">
+        <item>Favorites</item>
+        <item>Recents</item>
+        <item>My TVs</item>
+        <item>Local TV</item>
+        <item>Educational</item>
+        <item>Entertainment</item>
+        <item>Government</item>
+        <item>Kids</item>
+        <item>Lifestyle</item>
+        <item>Movies/Series</item>
+        <item>Music</item>
+        <item>News</item>
+        <item>Religious</item>
+        <item>Shopping</item>
+        <item>Sports</item>
+        <item>Varieties</item>
+        <item>Weather</item>
+        <item>Adult</item>
+        <item>By Location</item>
+    </string-array>
+    <string-array name="radio_music_categories">
+        <item>African</item>
+        <item>Bossa-Nova</item>
+        <item>Brega</item>
+        <item>Christmas</item>
+        <item>Classic Rock</item>
+        <item>Classical</item>
+        <item>College</item>
+        <item>Country</item>
+        <item>Dance</item>
+        <item>Decades</item>
+        <item>Electronic</item>
+        <item>Folk</item>
+        <item>Forró</item>
+        <item>Funk</item>
+        <item>Gospel</item>
+        <item>Hip-Hop</item>
+        <item>Jazz</item>
+        <item>Kids</item>
+        <item>Latino</item>
+        <item>MPB</item>
+        <item>Oldies</item>
+        <item>Pagode</item>
+        <item>Pop</item>
+        <item>Pop-Rock</item>
+        <item>Punk</item>
+        <item>R&amp;B</item>
+        <item>Reggae</item>
+        <item>Rock/Metal</item>
+        <item>Romantic</item>
+        <item>Salsa</item>
+        <item>Samba</item>
+        <item>Sertanejo</item>
+        <item>Soul/Jazz</item>
+        <item>Special</item>
+        <item>Tango</item>
+        <item>Underground</item>
+        <item>World</item>
+    </string-array>
+    <string-array name="radio_sports_categories">
+        <item>Basketball</item>
+        <item>Football</item>
+        <item>Motoring</item>
+        <item>Soccer</item>
+    </string-array>
+
+</resources>

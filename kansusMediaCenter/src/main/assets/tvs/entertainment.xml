@@ -1,0 +1,37 @@
+﻿<channels>
+	<channel>
+		<name>Venus TV</name>
+		<category>Movies/Series, Entertainment</category>
+		<location>India</location>
+		<site>http://www.venustv.tv/</site>
+		<stream>mms://217.34.158.58:8080</stream>
+		<thumbnail>http://www.realtvonline.com/wp-content/uploads/2012/06/venus-tv.jpg</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>Clap TV</name>
+		<category>Entertainment</category>
+		<location>France</location>
+		<site>http://www.claptv.fr/</site>
+		<stream>mms://rr93.diffusepro.com/rr93</stream>
+		<thumbnail>http://www.claptv.fr/ClapTV-UI/IMAGES/Generale/ClapTV.gif</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>Odoroku TV</name>
+		<category>Entertainment</category>
+		<location>USA</location>
+		<site>http://www.odoroku.tv/</site>
+		<stream>http://www.odoroku.tv/cgi-bin/mov/live.cgi?no=1&amp;bps=512</stream>
+		<thumbnail>http://lesitedujapon.com/wp-content/uploads/2012/01/Odoroku-TV.jpg</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>TubTub</name>
+		<category>Entertainment</category>
+		<location>USA</location>
+		<site>http://tubtub.com/</site>
+		<stream>mms://72.13.81.34/16931</stream>
+		<thumbnail>http://tubtub.com/index_files/index_17935_image002.gif</thumbnail>
+	</channel>
+</channels>

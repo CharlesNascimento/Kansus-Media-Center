@@ -1,0 +1,28 @@
+﻿<channels>
+	<channel>
+		<name>TVART</name>
+		<category>Lifestyle</category>
+		<location>Bulgaria</location>
+		<site>http://www.tvart.info/</site>
+		<stream>rtsp://tvart.info/tvart</stream>
+		<thumbnail>http://b.vimeocdn.com/ps/520/520831_300.jpg</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>TV Gauranga</name>
+		<category>Lifestyle</category>
+		<location>Russia</location>
+		<site>http://www.vedamedia.ru/televidenie-gauranga/</site>
+		<stream>mms://195.62.63.238/tv_gauranga</stream>
+		<thumbnail>http://vedamedia.ru/images/stories/design/broadcasting/tv_gauranga.jpg</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>Cultura TV</name>
+		<category>Lifestyle</category>
+		<location>Netherlands</location>
+		<site>http://www.cultura.nl/</site>
+		<stream>mms://emil01.omroep.nl/npo_geodenied-public?/npo/geodenied&amp;md5=89e2edc8e9a26d244daa610a6cc20524&amp;t=50a1d680</stream>
+		<thumbnail>http://www.azstreaming.com/images/television/big-cultura-tv.jpg</thumbnail>
+	</channel>
+</channels>

@@ -1,0 +1,64 @@
+﻿<channels>
+	<channel>
+		<name>Cine5 TV</name>
+		<category>Movies/Series</category>
+		<location>Turkey</location>
+		<site>http://www.cine5.com.tr/</site>
+		<stream>mms://yayin.cine5.com.tr/cine5</stream>
+		<thumbnail>http://www.isik.tv/images/logo/tv/cine5.jpg</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>Çizgi TV</name>
+		<category>Movies/Series</category>
+		<location>Turkey</location>
+		<site>http://www.cizgifilmtv.com/</site>
+		<stream>mms://yayin.tv-fm.com/cizgifilmtv</stream>
+		<thumbnail>http://a5.mzstatic.com/us/r1000/101/Purple/v4/e3/69/bd/e369bd71-7d16-c1bf-b8ff-76c43bc9372a/mza_2106536098100602231.175x175-75.jpg</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>WSTV</name>
+		<category>Movies/Series</category>
+		<location>USA, Florida, White Springs</location>
+		<site>http://www.whitesprings.tv/</site>
+		<stream>mms://75.112.144.110/WSTV</stream>
+		<thumbnail>http://images-mediawiki-sites.thefullwiki.org/02/3/3/2/80965022151623015.jpg</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>Venus TV</name>
+		<category>Movies/Series, Entertainment</category>
+		<location>India</location>
+		<site>http://www.venustv.tv/</site>
+		<stream>mms://217.34.158.58:8080</stream>
+		<thumbnail>http://www.realtvonline.com/wp-content/uploads/2012/06/venus-tv.jpg</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>Film1</name>
+		<category>Movies/Series</category>
+		<location>Czech Republic</location>
+		<site>http://www.film1.cz/</site>
+		<stream>mms://stream.hdtv1.cz/Film1cz-live</stream>
+		<thumbnail>http://www.zoznam.tv/tvlogo/film1-tv-logo.jpg</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>HDTV1</name>
+		<category>Movies/Series</category>
+		<location>Czech Republic</location>
+		<site>http://www.hdtv1.cz/</site>
+		<stream>mms://server3.streaming.cesnet.cz/hdtv1?WMThinning=0</stream>
+		<thumbnail>http://www.onlinetvplanet.com/wp-content/uploads/2009/03/hdtv1_cz.jpg</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>Wildlife Channel</name>
+		<category>Documentary</category>
+		<location>United Kingdom</location>
+		<site>http://www.wildlifechannel.tv/</site>
+		<stream>mms://rs4wms.i2ic.com/wlc_2500</stream>
+		<thumbnail>http://vodspod.com/tv-images/united-kingdom-wildlife-channel.jpg</thumbnail>
+	</channel>
+</channels>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/activity/KansusMediaCenter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/activity/image/Gallery.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/activity/image/GalleryChooser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/activity/image/ImageCropper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/activity/music/AlbumsActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/activity/music/ArtistsActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/activity/music/KansusMusic.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/activity/music/MusicActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/activity/radio/MyRadios.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/activity/radio/RadioRecordings.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/activity/tv/MyTVs.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/activity/tv/TVRecordings.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/adapter/AlbumAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/adapter/ArtistaAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/adapter/MusicAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/adapter/RecordingsAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/social/FacebookSharing.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/social/TwitterSharing.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/structure/BaseImage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/structure/BaseImageList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/structure/DrmImageList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/structure/IImage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/structure/IImageList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/structure/Image.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/structure/ImageList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/structure/ImageListUber.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/structure/LruCache.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/structure/SingleImageList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/structure/UriImage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/structure/VideoList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/structure/VideoObject.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/util/ImageManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/util/Util.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/video/download/VideoAttributes.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/video/download/YouTubeDownload.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kansusMediaCenter/src/main/java/org/kansus/mediacenter/widget/MovieViewControl.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,28 @@
+﻿<channels>
+	<channel>
+		<name>Rock TV HD</name>
+		<category>Music, Rock/Metal</category>
+		<location>Turkey</location>
+		<site>https://www.facebook.com/Rock.TV.HD</site>
+		<stream>rtmp://91.82.85.71:1935/live/rocktv</stream>
+		<thumbnail>https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-snc6/216166_164636313595368_3478345_n.jpg</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>Rock Television</name>
+		<category>Music, Rock/Metal</category>
+		<location>Italy</location>
+		<site>http://www.rocktelevision.com/index.php</site>
+		<stream>rtsp://mediatv2.topix.it/24rocktelevision66</stream>
+		<thumbnail>http://www.rocktelevision.com/templates/gk_gomuproject/images/logo.png</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>Dance TV</name>
+		<category>Music, Dance</category>
+		<location>Hungary</location>
+		<site>http://www.dancetv.hu/</site>
+		<stream>mms://dancetv.dyndns.org/dancetv</stream>
+		<thumbnail>https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/168782_178990528803902_3598034_n.jpg</thumbnail>
+	</channel>
+</channels>

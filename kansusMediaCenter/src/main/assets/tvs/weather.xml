@@ -1,0 +1,10 @@
+﻿<channels>
+	<channel>
+		<name>France 2 Météo</name>
+		<category>Weather</category>
+		<location>France</location>
+		<site>http://meteo.france2.fr/</site>
+		<stream>mms://a988.v101995.c10199.e.vm.akamaistream.net/7/988/10199/3f97c7e6/ftvigrp.download.akamai.com/10199/horsgv/regions/siege/france2/meteo/meteo_GT.wmv</stream>
+		<thumbnail>http://static.francetv.fr/arches/france2/default/img/logo_france2.png</thumbnail>
+	</channel>
+</channels>

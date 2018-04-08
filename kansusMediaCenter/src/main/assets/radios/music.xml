@@ -1,0 +1,64 @@
+﻿<radio>
+	<radio>
+		<name>1.FM - Top 40</name>
+		<location>Estados Unidos</location>
+		<category>Music</category>
+		<site>http://www.1.fm/</site>
+		<stream>mms://top40.1.fm/top4032k</stream>
+		<thumbnail>http://www.1.fm/content/images/1fmlogotrns.png</thumbnail>
+	</radio>
+	
+	<radio>
+		<name>89 FM</name>
+		<location>Brasil</location>
+		<category>Music</category>
+		<site>http://www.89fm.com.br</site>
+		<stream>http://174-120-158-115.webnow.net.br/89fm64k.mp3</stream>
+		<thumbnail>http://www.89fm.com.br/wp-content/themes/Avenue/css/skins/images/xred_logo.png.pagespeed.ic.rLQfte6ALh.png</thumbnail>
+	</radio>
+	
+	<radio>
+		<name>91 Rock - Curitiba</name>
+		<location>Brasil, Curitiba</location>
+		<category>Music</category>
+		<site></site>
+		<stream>mms://servidor11.dnip.com.br/91radiorock</stream>
+		<thumbnail></thumbnail>
+	</radio>
+	
+	<radio>
+		<name>93.3 FM - Rio do Sul SC</name>
+		<location>Brasil, Santa Catarina, Rio do Sul</location>
+		<category>Music</category>
+		<site>http://www.radiofm93.com.br/</site>
+		<stream>mms://wmedia.telium.com.br/belaalianca</stream>
+		<thumbnail></thumbnail>
+	</radio>
+	
+	<radio>
+		<name>Rádio Globo FM</name>
+		<category>Web, Music, Pop Rock</category>
+		<location>Brasil, Rio de Janeiro</location>
+		<site>http://globofm.globoradio.globo.com</site>
+		<stream>rtmp://media.sgr.globo.com/MusicalRD/globofm.sdp</stream>
+		<thumbnail>http://imagens.globoradio.globo.com/globoradio/fotosGen/2802/280107.jpg</thumbnail>
+	</radio>
+	
+	<radio>
+		<name>Rádio Multishow FM</name>
+		<location>Brasil, Rio de Janeiro</location>
+		<category>Web, Music, CHR</category>
+		<site>http://www.multishowfm.com.br</site>
+		<stream>rtmp://media.sgr.globo.com:1935/MusicalRD/mshow.sdp</stream>
+		<thumbnail>http://hotsites.globoradio.globo.com/mswfm/newsletter/img/logo_multishow.jpg</thumbnail>
+	</radio>
+	
+	<radio>
+		<name>Rádio GNT</name>
+		<location>Brasil, Rio de Janeiro</location>
+		<category>Web, Music, Eclectic</category>
+		<site>http://radiognt.globoradio.globo.com</site>
+		<stream>mms://wm-sgr-live.globo.com/sgr_off_gnt_live.wma</stream>
+		<thumbnail>http://hotsites.globoradio.globo.com/radiognt/newsletter/img/logo_gnt.jpg</thumbnail>
+	</radio>
+</radio>

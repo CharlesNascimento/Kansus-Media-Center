@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true" >
+
+    <SeekBar
+        android:id="@+id/mediacontroller_seekbar"
+        style="@style/MediaController_SeekBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:focusable="true"
+        android:max="1000" />
+
+    <LinearLayout
+        android:id="@+id/linear_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mediacontroller_seekbar"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/mediacontroller_stop"
+            android:layout_width="54.6dip"
+            android:layout_height="32dip"
+            android:background="#00000000"
+            android:contentDescription="@+id/mediacontroller_stop"
+            android:gravity="center"
+            android:src="@drawable/mediacontroller_stop_button" />
+
+        <ImageButton
+            android:id="@+id/mediacontroller_play_pause"
+            android:layout_width="54.6dip"
+            android:layout_height="32dip"
+            android:background="#00000000"
+            android:contentDescription="@string/mediacontroller_play_pause"
+            android:gravity="center"
+            android:src="@drawable/mediacontroller_pause_button" />
+
+        <ImageButton
+            android:id="@+id/mediacontroller_record"
+            android:layout_width="54.6dip"
+            android:layout_height="32dip"
+            android:background="#00000000"
+            android:contentDescription="@+id/mediacontroller_record"
+            android:gravity="center"
+            android:src="@drawable/mediacontroller_record_button" />
+    </LinearLayout>
+
+    <io.vov.vitamio.widget.OutlineTextView
+        android:id="@+id/mediacontroller_info_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/mediacontroller_time_current"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/mediacontroller_time_current"
+        android:textColor="#FFFFFFFF" />
+
+    <TextView
+        android:id="@+id/mediacontroller_time_current"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/linear_layout"
+        android:layout_alignParentRight="true"
+        android:text="01:21:52"
+        android:textColor="#FFFFFFFF" />
+
+</RelativeLayout>

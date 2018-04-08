@@ -1,0 +1,64 @@
+﻿<radios>
+	<radio>
+		<name>Rádio Globo AM - RJ</name>
+		<category>Varieties</category>
+		<location>Brasil, Rio de Janeiro</location>
+		<site>http://radioglobo.globoradio.globo.com</site>
+		<stream>http://locus.creacast.com:9001/wave_farm_pond_station_new_york.mp3</stream>
+		<thumbnail>https://cdn.webrad.io/images/logos/radiosaovivo-net/radio-globo-1220-rio-de-janeiro.png</thumbnail>
+	</radio>
+	
+	<radio>
+		<name>Rádio Globo AM - SP</name>
+		<category>Varieties</category>
+		<location>Brasil, São Paulo</location>
+		<site>http://radioglobo.globoradio.globo.com</site>
+		<stream>mms://wm-sgr-live.globo.com/sgr_off_globoamsp_live.wma</stream>
+		<thumbnail>http://radioglobo.globoradio.globo.com/estaticos/images/novo/logo-header.png</thumbnail>
+	</radio>
+	
+	<radio>
+		<name>Rádio Globo AM - MG</name>
+		<category>Varieties</category>
+		<location>Brasil, Minas Gerais</location>
+		<site>http://radioglobo.globoradio.globo.com/</site>
+		<stream>mms://wm-sgr-live.globo.com/sgr_off_globoambh_live.wma</stream>
+		<thumbnail>http://radioglobo.globoradio.globo.com/estaticos/images/novo/logo-header.png</thumbnail>
+	</radio>
+	
+	<radio>
+		<name>Rádio Globo Cultura AM</name>
+		<category>Varieties</category>
+		<location>Brasil, Minas Gerais, Uberlândia</location>
+		<site>http://megaminas.globo.com/globocultura</site>
+		<stream>http://radio.opinguim.net:8007</stream>
+		<thumbnail>http://www.logotypes101.com/logos/738/6D7A0C2F838836212DFB4AF81506E4C0/Radio_Globo.png</thumbnail>
+	</radio>
+	
+	<radio>
+		<name>Rádio Globo FM</name>
+		<category>Web, Music, Pop Rock</category>
+		<location>Brasil, Rio de Janeiro</location>
+		<site>http://globofm.globoradio.globo.com</site>
+		<stream>rtmp://media.sgr.globo.com/MusicalRD/globofm.sdp</stream>
+		<thumbnail>http://imagens.globoradio.globo.com/globoradio/fotosGen/2802/280107.jpg</thumbnail>
+	</radio>
+	
+	<radio>
+		<name>Rádio Multishow FM</name>
+		<location>Brasil, Rio de Janeiro</location>
+		<category>Web, Music, CHR</category>
+		<site>http://www.multishowfm.com.br</site>
+		<stream>rtmp://media.sgr.globo.com:1935/MusicalRD/mshow.sdp</stream>
+		<thumbnail>http://hotsites.globoradio.globo.com/mswfm/newsletter/img/logo_multishow.jpg</thumbnail>
+	</radio>
+	
+	<radio>
+		<name>Rádio GNT</name>
+		<location>Brasil, Rio de Janeiro</location>
+		<category>Web, Music, Eclectic</category>
+		<site>http://radiognt.globoradio.globo.com</site>
+		<stream>mms://wm-sgr-live.globo.com/sgr_off_gnt_live.wma</stream>
+		<thumbnail>http://hotsites.globoradio.globo.com/radiognt/newsletter/img/logo_gnt.jpg</thumbnail>
+	</radio>
+</radios>

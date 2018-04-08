@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rootLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/app_background" >
+
+    <FrameLayout
+        android:id="@+id/slideShowContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <org.kansus.mediacenter.activity.image.ImageViewTouch
+            android:id="@+id/image1_slideShow"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#00000000" />
+
+        <org.kansus.mediacenter.activity.image.ImageViewTouch
+            android:id="@+id/image2_slideShow"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#00000000" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/abs"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <org.kansus.mediacenter.activity.image.ImageViewTouch
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#00000000"
+            android:focusableInTouchMode="true" />
+    </FrameLayout>
+
+    <ImageView
+        android:id="@+id/prev_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:clickable="true"
+        android:contentDescription="@+id/prev_image"
+        android:focusable="false"
+        android:src="@drawable/btn_camera_arrow_left"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/next_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:clickable="true"
+        android:contentDescription="@+id/next_image"
+        android:focusable="false"
+        android:src="@drawable/btn_camera_arrow_right"
+        android:visibility="invisible" />
+
+    <LinearLayout
+        android:id="@+id/action_icon_panel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:visibility="gone" >
+
+        <org.kansus.mediacenter.widget.ActionMenuButton
+            android:id="@+id/setas"
+            style="@style/OnscreenActionIcon"
+            android:drawableTop="@drawable/ic_menu_set_as"
+            android:text="@string/camera_set"
+            android:visibility="visible" />
+
+        <org.kansus.mediacenter.widget.ActionMenuButton
+            android:id="@+id/play"
+            style="@style/OnscreenActionIcon"
+            android:drawableTop="@drawable/ic_menu_camera_play"
+            android:text="@string/camera_play"
+            android:visibility="gone" />
+
+        <org.kansus.mediacenter.widget.ActionMenuButton
+            android:id="@+id/share"
+            style="@style/OnscreenActionIcon"
+            android:drawableTop="@drawable/ic_menu_share"
+            android:text="@string/camera_share"
+            android:visibility="visible" />
+
+        <org.kansus.mediacenter.widget.ActionMenuButton
+            android:id="@+id/discard"
+            style="@style/OnscreenActionIcon"
+            android:drawableTop="@drawable/ic_menu_delete"
+            android:text="@string/camera_toss"
+            android:visibility="visible" />
+
+        <org.kansus.mediacenter.widget.ActionMenuButton
+            android:id="@+id/attach"
+            style="@style/OnscreenActionIcon"
+            android:drawableTop="@drawable/ic_menu_attach"
+            android:text="@string/camera_attach"
+            android:visibility="gone" />
+
+        <org.kansus.mediacenter.widget.ActionMenuButton
+            android:id="@+id/cancel"
+            style="@style/OnscreenActionIcon"
+            android:drawableTop="@drawable/ic_menu_cancel"
+            android:text="@string/camera_cancel"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</RelativeLayout>

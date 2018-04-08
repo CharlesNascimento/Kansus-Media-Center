@@ -1,0 +1,19 @@
+<radio>
+	<radio>
+		<name>1CLUB.FM - 80s Pop Hits</name>
+		<location>Estados Unidos</location>
+		<category>Decades</category>
+		<site>http://1club.fm/decades-70s-90s/80s-pop-hits.html</site>
+		<stream>http://wms-13.streamsrus.com:9310</stream>
+		<thumbnail></thumbnail>
+	</radio>
+	
+	<radio>
+		<name>90's alternative FM (anos 90)</name>
+		<location>Estados Unidos</location>
+		<category>Decades</category>
+		<site>http://www.bigrradio.com/player.php?id=31</site>
+		<stream>mms://livestream2.bigrradio.com/90salt</stream>
+		<thumbnail>http://grungefm.com/images/bigr80x80.png</thumbnail>
+	</radio>
+</radio>

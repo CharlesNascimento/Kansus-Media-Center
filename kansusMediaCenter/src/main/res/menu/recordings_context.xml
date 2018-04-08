@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/r_play_item"
+        android:title="@string/listen"/>
+    <item
+        android:id="@+id/r_delete_item"
+        android:title="@string/delete"/>
+    <item
+        android:id="@+id/r_rename_item"
+        android:title="@string/rename"/>
+    <item
+        android:id="@+id/r_convert_item"
+        android:title="@string/convert"/>
+    <item
+        android:id="@+id/r_details_item"
+        android:title="@string/details"/>
+
+</menu>

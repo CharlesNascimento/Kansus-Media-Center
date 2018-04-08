@@ -1,0 +1,19 @@
+﻿<channels>
+	<channel>
+		<name>Al Iraqiya Sports</name>
+		<category>Sports</category>
+		<location>Iraq</location>
+		<site>http://imn.iq/pages/sport-tv/</site>
+		<stream>mms://212.7.196.74/sport</stream>
+		<thumbnail>http://imn.iq/data/sportlogo.png</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>Massive Mag</name>
+		<category>Sports</category>
+		<location>Germany</location>
+		<site>www.massive-mag.tv/</site>
+		<stream>mms://stream01.massive-mag.tv/massivemag_mq</stream>
+		<thumbnail>http://www.massive-mag.tv/extension/massivesportstv/design/ezwebin//images/logo.jpg</thumbnail>
+	</channel>
+</channels>

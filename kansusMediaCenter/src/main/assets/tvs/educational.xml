@@ -1,0 +1,37 @@
+﻿<channels>
+	<channel>
+		<name>TV UFPE</name>
+		<category>Educational</category>
+		<location>Brasil</location>
+		<site>http://www.ufpe.br/ntvru/</site>
+		<stream>mms://150.161.6.17:8080/radiotvu.asf</stream>
+		<thumbnail>http://www.ufpe.br/ntvru/images/stories/tvu_logo.gif</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>RTVE</name>
+		<category>Educational</category>
+		<location>Brasil, Paraná</location>
+		<site>http://www.rtve.pr.gov.br/</site>
+		<stream>mms://200.189.113.200/TVE</stream>
+		<thumbnail>http://www.tvbrasil.org.br/tvspublicas/imagens/tveparana.png</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>TV Século 21</name>
+		<category>Educational</category>
+		<location>Brasil, São Paulo</location>
+		<site>http://www.tvseculo21.org.br</site>
+		<stream>http://cdn.nucleomedia.com.br/tvseculo21_live?wmcache=0&amp;sessionid=735356724&amp;userid=177.20.222.224&amp;cod_logu=23736568</stream>
+		<thumbnail>http://www.tvseculo21.org.br/templates/tv/img/logoTV2.jpg</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>NASA TV Education</name>
+		<category>Educational</category>
+		<location>USA</location>
+		<site>http://www.nasa.gov/multimedia/nasatv</site>
+		<stream>rtmp://cp76072.live.edgefcs.net/live/EDU-HQ-Flash@42809</stream>
+		<thumbnail>https://twimg0-a.akamaihd.net/profile_images/188302352/nasalogo_twitter.jpg</thumbnail>
+	</channel>
+</channels>

@@ -1,0 +1,19 @@
+﻿<channels>
+	<channel>
+		<name>Sky News</name>
+		<category>News</category>
+		<location>United Kingdom</location>
+		<site>http://news.sky.com/</site>
+		<stream>mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k</stream>
+		<thumbnail>http://photos-a.ak.fbcdn.net/photos-ak-snc7/v85005/182/353948521355030/app_104_353948521355030_164443104.png</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>BBC Persian</name>
+		<category>News</category>
+		<location>Iran</location>
+		<site>http://www.bbc.co.uk/persian/</site>
+		<stream>mms://livewmstream-ws.bbc.co.uk.edgestreams.net/reflector:43117</stream>
+		<thumbnail>http://www.freewarepocketpc.net/wp7/img/bbc-persian.png</thumbnail>
+	</channel>
+</channels>

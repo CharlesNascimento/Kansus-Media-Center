@@ -1,0 +1,37 @@
+﻿<channels>
+	<channel>
+		<name>Rede Vida</name>
+		<category>Religious</category>
+		<location>Brasil</location>
+		<site>http://www.redevida.com.br/</site>
+		<stream>mms://wmedia.telium.com.br/redevida</stream>
+		<thumbnail>http://www.redevida.com.br/images/logo-rede-vida.png</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>RIT</name>
+		<category>Religious</category>
+		<location>Brasil</location>
+		<site>http://www.rittv.com.br</site>
+		<stream>rtmp://67.228.212.5/ponto79/ongrace</stream>
+		<thumbnail>http://www.rittv.com.br/construcao/img/logo.png</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>TV Mundo Maior</name>
+		<category>Religious</category>
+		<location>Brasil</location>
+		<site>http://www.redemundomaior.com.br</site>
+		<stream>mms://mms2.asaweb.com.br/tvmundomaior</stream>
+		<thumbnail>http://www.redemundomaior.com.br/sys/images/logotipo.jpg</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>Canal Luz HD</name>
+		<category>Religious</category>
+		<location>Argentina, Rosario</location>
+		<site>http://www.canalluz.org/</site>
+		<stream>http://static-cdn1.ustream.tv/swf/live/viewer.old:7.swf?loc=&amp;cid=8901586&amp;channelid=8901586</stream>
+		<thumbnail>http://www.ourwebtv.com/Logos/Canal%20Luz%20Argentina.JPG</thumbnail>
+	</channel>
+</channels>

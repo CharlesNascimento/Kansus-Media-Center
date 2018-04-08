@@ -1,0 +1,39 @@
+﻿<channels>
+	<channel>
+		<name>TVSN</name>
+		<category>Shopping</category>
+		<location>Australia, Sidney</location>
+		<site>https://www.itvsn.com.au/</site>
+		<stream>rtsp://bptvlive.ngcdn.telstra.com/online-chief-tvsn-1m</stream>
+		<thumbnail>https://www.itvsn.com.au/images/topbar/logo_tvsn_xmas.png</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>Shop Channel</name>
+		<category>Shopping</category>
+		<location>Japan</location>
+		<site>http://www.shopch.jp</site>
+		<stream>mms://streamw1.hitpops.jp/shopch</stream>
+		<thumbnail>http://www.shopch.jp/com/images/common/shop_logo1.gif</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>Hmall</name>
+		<category>Shopping</category>
+		<location>South Korea</location>
+		<site>www.hmall.com/</site>
+		<stream>mms://live.hyundaihmall.com/encoder2</stream>
+		<thumbnail>http://image.hyundaihmall.com/static/2012img/common/gnb/hmall_logo.gif</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>TV Shopping Brasil</name>
+		<category>Shopping</category>
+		<location>Brazil</location>
+		<site>http://www.tvshoppingbrasil.com.br</site>
+		<stream>mms://67.228.212.6:8000/tvshop</stream>
+		<thumbnail>http://www.ourwebtv.com/Logos/TV%20Shopping%20Brazil.JPG</thumbnail>
+	</channel>
+</channels>
+
+

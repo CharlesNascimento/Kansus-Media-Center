@@ -1,0 +1,28 @@
+﻿<channels>
+	<channel>
+		<name>TV Câmara</name>
+		<category>Government</category>
+		<location>Brasil, Brasília</location>
+		<site>http://www2.camara.leg.br/tv/</site>
+		<stream>mms://stream.camara.gov.br/tvcamara1t200</stream>
+		<thumbnail>http://www2.camara.leg.br/noticias/institucional/imagens/LogoTV.JPG/image_preview</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>TVW</name>
+		<category>Government</category>
+		<location>USA, Washington</location>
+		<site>http://www.tvw.org/</site>
+		<stream>http://enclive.tvwmedia.net:1935/LiveVideoClient/3gh264/playlist.m3u8</stream>
+		<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-prn1/41612_27589478990_240053236_n.jpg</thumbnail>
+	</channel>
+	
+	<channel>
+		<name>Cámara de Diputados de Argentina</name>
+		<category>Government</category>
+		<location>Argentina, Buenos Aires</location>
+		<site>http://www.diputados.gov.ar/</site>
+		<stream>mms://hera.hcdn.gov.ar/sesiones_vivo</stream>
+		<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-ash3/50398_298364156886416_790086051_q.jpg</thumbnail>
+	</channel>
+</channels>

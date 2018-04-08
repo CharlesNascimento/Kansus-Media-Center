@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/app_background" >
+
+    <TextView
+        android:id="@+id/radio_name_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:textColor="#FFFFFF" />
+
+    <ImageView
+        android:id="@+id/radio_logo_iv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/radio_name_tv"
+        android:contentDescription="@+id/radio_logo_iv"
+        android:scaleType="center"
+        android:src="@drawable/video_brightness_bg" />
+
+    <ImageView
+        android:id="@+id/twitter_iv"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:contentDescription="@+id/facebook_iv"
+        android:scaleType="fitXY"
+        android:src="@drawable/ic_twitter" />
+
+    <ImageView
+        android:id="@+id/facebook_iv"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/twitter_iv"
+        android:contentDescription="@+id/facebook_iv"
+        android:scaleType="fitXY"
+        android:src="@drawable/ic_facebook" />
+
+    <FrameLayout
+        android:id="@+id/operation_volume_brightness"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="#00000000"
+        android:orientation="horizontal"
+        android:padding="0dip"
+        android:visibility="invisible" >
+
+        <ImageView
+            android:id="@+id/operation_bg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:contentDescription="@+id/operation_bg"
+            android:src="@drawable/video_volumn_bg" />
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:paddingBottom="25dip" >
+
+            <ImageView
+                android:id="@+id/operation_full"
+                android:layout_width="94dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:contentDescription="@+id/operation_full"
+                android:src="@drawable/video_num_bg" />
+
+            <ImageView
+                android:id="@+id/operation_percent"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:contentDescription="@+id/operation_percent"
+                android:scaleType="matrix"
+                android:src="@drawable/video_num_front" />
+        </FrameLayout>
+    </FrameLayout>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+
+</RelativeLayout>
