@@ -7,4 +7,4 @@ If you want to know more about it, you can check it out in my [portfolio](https:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
